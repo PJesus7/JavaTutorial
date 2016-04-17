@@ -1,0 +1,5 @@
+<applet code="HelloAppletAgain.class"
+        width="640"
+        height="480"
+        archive="HelloAplletAgain.jar">
+</applet>
